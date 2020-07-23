@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Andrey-Elxnitis github stats](https://github-readme-stats.vercel.app/api?username=Andrey-Elxnitis&show_icons=true&theme=onegreen)
+![Andrey-Elxnitis github stats](https://github-readme-stats.vercel.app/api?username=Andrey-Elxnitis&show_icons=true&theme=onedark)
 
 <!--
 **Andrey-Elxnitis/Andrey-Elxnitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
